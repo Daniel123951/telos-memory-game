@@ -1,13 +1,10 @@
-# telos-memory-game
-interactive memory game called "Discover Telos", designed to teach key concepts of the Telos blockchain in a fun and visual way. This game can serve as an educational tool, group dynamics, or resource for presentations on blockchain technology.
+🧠 Juego de memoria de Telos: Descubre Telos
+He creado un juego de memoria interactivo llamado "Descubre Telos", diseñado para enseñar conceptos clave de la blockchain de Telos de forma divertida y visual. Este juego puede utilizarse como herramienta educativa, para dinamizar grupos o como recurso en presentaciones sobre tecnología blockchain.
 
-An interactive memory game called “Discover Telos”, designed to teach key concepts of the Telos blockchain in a fun and visual way. This game can serve as an educational tool, group activity, or resource for presentations on blockchain technology.
+El juego consta de 12 pares de cartas (24 en total), cada una representando un concepto fundamental de Telos. Al emparejarlas correctamente, las cartas revelan una breve explicación o dato interesante sobre ese concepto. Por ejemplo, conectar "TLOS" con "Token" muestra que TLOS es el token nativo de Telos. Otros pares incluyen "BP" con "Productor de Bloques", "EVM" con "Máquina Virtual de Ethereum", y "Gobernanza" con "Votación".
 
-The game consists of 12 pairs of cards (24 in total), each representing a fundamental concept of Telos. When correctly matched, the cards reveal a brief explanation or interesting fact about that concept. For example, connecting “TLOS” with “Token” shows that TLOS is the native token of Telos. Other pairs include “BP” with “Block Producer,” “EVM” with “Ethereum Virtual Machine,” and “Governance” with “Voting.”
+Diseñé el juego como una presentación interactiva, con botones y animaciones que revelan el contenido al hacer clic. El estilo visual está inspirado en una exploración espacial de Telos, utilizando colores como azul Telos, negro, blanco y detalles dorados para lograr una estética futurista y tecnológica.
 
-You can design it in Canva as an interactive presentation, using clickable buttons or animations that reveal the content when clicked. The visual style can be inspired by your interactive space-themed Telos exploration, using colors like Telos blue, black, white, and golden accents to give it a futuristic and tech-savvy look.
+Además, añadí una dinámica adicional: tras cada acierto, aparece una pregunta de reflexión, como “¿Qué ventaja ofrece Telos sobre otras blockchains?” o “¿Cómo se selecciona un productor de bloques?”. Esto promueve el aprendizaje activo y puede adaptarse a talleres, eventos comunitarios o sesiones educativas.
 
-Additionally, you can add a bonus dynamic: after each correct match, a reflection question appears, such as “What advantage does Telos offer over other blockchains?” or “How is a Block Producer selected?” This encourages active learning and can be adapted for workshops, community events, or educational sessions.
-
-The difficulty level is adjustable, allowing for more pairs, timers, hints, or even a competitive team mode.
-
+El nivel de dificultad es ajustable, permitiendo incorporar más parejas, temporizadores, pistas o incluso un modo competitivo por equipos.
